@@ -9,8 +9,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/atharva-bedekar-504045200"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AB527"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <!-- <a href="https://github.com/AB527"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a> -->
   <a href="mailto:atharvabedekar527@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/BedekarAtharva"><img src="https://img.shields.io/badge/X-000?logo=twitter&logoColor=white" /></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-08A381?logo=vercel&logoColor=white" /></a> -->
 </p>
 
